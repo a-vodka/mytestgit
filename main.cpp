@@ -14,6 +14,7 @@ int main()
     cout << "Hello from linux" << endl;
     cout << "2 + 3 = " << add(2, 3) << endl;
     cout << "3 + 8 = " << add(3, 8) << endl;
+    cout << "Hello vdk\n";
     return 0;
 }
 
